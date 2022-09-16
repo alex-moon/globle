@@ -46,6 +46,7 @@ export const French: Messages = {
   Game6: "Pays déjà tenté",
   Game7: "Le pays mystère est: {answer}!",
   Game8: "Frontière la plus proche",
+  Game9: "Direction",
   StatsTitle: "Statistiques",
   Stats1: "Dernière victoire",
   Stats2: "Tentatives d'aujourd'hui",

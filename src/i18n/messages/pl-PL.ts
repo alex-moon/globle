@@ -41,6 +41,7 @@ export const Polish: Messages = {
   Game6: "Ten kraj już się pojawił",
   Game7: "Tajemniczy Kraj to {answer}!",
   Game8: "Najbliższa granica",
+  Game9: "Kierunek",
   StatsTitle: "Statystyki",
   Stats1: "Ostatnie zwycięstwo",
   Stats2: "Dzisiejsze próby",

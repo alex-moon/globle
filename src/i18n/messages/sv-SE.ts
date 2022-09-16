@@ -41,6 +41,7 @@ export const Swedish: Messages = {
   Game6: "Landet redan gissat",
   Game7: "Mysterielandet är {answer}!",
   Game8: "Närmsta gräns",
+  Game9: "Riktning",
   StatsTitle: "Statistik",
   Stats1: "Senaste vinst",
   Stats2: "Dagens gissningar",

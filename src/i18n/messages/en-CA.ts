@@ -47,6 +47,7 @@ export const English: Messages = {
   Game6: "Country already guessed",
   Game7: "The Mystery Country is {answer}!",
   Game8: "Closest border",
+  Game9: "Direction",
   StatsTitle: "Statistics",
   Stats1: "Last win",
   Stats2: "Today's guesses",
